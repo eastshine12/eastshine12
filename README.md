@@ -1,6 +1,6 @@
 <h1 align="center"> </h1>
 
-<h3>Hi!🖐 Web Developer💻</h3>
+<h3>Hi!🖐 I'm Web Developer💻</h3>
 
 
 <!-- <h3>프로젝트</h3> -->
